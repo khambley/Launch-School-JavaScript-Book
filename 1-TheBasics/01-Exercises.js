@@ -128,7 +128,7 @@ console.log(`The value the expression parseInt('3.1415') evaluates to is ${parse
 
 /* 13. What value does the following expression evaluate to? */
 console.log(`The value the expression '12' < '9' evaluates to is ${'12' < '9'}`);
-console.log()
+console.log();
 });
 
 
