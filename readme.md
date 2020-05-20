@@ -36,7 +36,12 @@ This repo contains my solutions to the coding exercises contained in the Introdu
         * All undeclared variables have global scope, example: `p = 'foo'`.  
     6. Summary  
     7. Exercises
-        * see 02-Variables.js
+        * see 02-Variables.js  
+3. Input / Output  
+    1. Command Line Output  
+        * `console.log("Hello, World")`  
+    2. Command Line Input  
+        
         
 
 
